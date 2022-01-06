@@ -1,4 +1,4 @@
-# Cisco DUO 2FA for Nextcloud 21
+# DUO Security 2FA for Nextcloud 21
 
 <!-- wp:heading {"level":4} -->
 <h4>Installation Environment</h4>
